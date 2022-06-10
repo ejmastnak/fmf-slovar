@@ -1,0 +1,2152 @@
+{
+  "terms": [
+    {
+      "english": "Absolute zero",
+      "slovene": "Absolutna ničla"
+    },
+    {
+      "english": "Acceleration due to gravity",
+      "slovene": "Težnostni pospešek"
+    },
+    {
+      "english": "Acceleration",
+      "slovene": "Pospešek"
+    },
+    {
+      "english": "Acoustics",
+      "slovene": "Akustika"
+    },
+    {
+      "english": "Action",
+      "slovene": "Akcija"
+    },
+    {
+      "english": "Adjoint operator",
+      "slovene": "Adjungiran operator"
+    },
+    {
+      "english": "Alloy",
+      "slovene": "Zlitina"
+    },
+    {
+      "english": "Alpha decay",
+      "slovene": "Razpad alfa"
+    },
+    {
+      "english": "Alpha particle",
+      "slovene": "Delec alfa"
+    },
+    {
+      "english": "Alternating current",
+      "slovene": "Izmenjujoči tok"
+    },
+    {
+      "english": "Amplification factor;gain",
+      "slovene": "Ojačevalni faktor"
+    },
+    {
+      "english": "Amplifier",
+      "slovene": "Ojačevalnik"
+    },
+    {
+      "english": "Amplitude",
+      "slovene": "Amplituda"
+    },
+    {
+      "english": "Angle of incidence",
+      "slovene": "Vpadni kot"
+    },
+    {
+      "english": "Angle of reflection",
+      "slovene": "Odbojni kot"
+    },
+    {
+      "english": "Angle",
+      "slovene": "Kot"
+    },
+    {
+      "english": "Angular acceleration",
+      "slovene": "Kotni pospešek"
+    },
+    {
+      "english": "Angular displacement",
+      "slovene": "Kotni premik"
+    },
+    {
+      "english": "Angular frequency",
+      "slovene": "Kotna frekvenca"
+    },
+    {
+      "english": "Angular momentum",
+      "slovene": "Vrtilna količina"
+    },
+    {
+      "english": "Angular velocity",
+      "slovene": "Kotna hitrost"
+    },
+    {
+      "english": "Anode",
+      "slovene": "Anoda"
+    },
+    {
+      "english": "Arc length",
+      "slovene": "Dolžina loka"
+    },
+    {
+      "english": "Area charge density",
+      "slovene": "Površinska gostota naboja"
+    },
+    {
+      "english": "Area density",
+      "slovene": "Površinska gostota"
+    },
+    {
+      "english": "Area",
+      "slovene": "Površina"
+    },
+    {
+      "english": "Asymptote",
+      "slovene": "Asimptota"
+    },
+    {
+      "english": "Atom",
+      "slovene": "Atom"
+    },
+    {
+      "english": "Atomic mass",
+      "slovene": "Atomska masa"
+    },
+    {
+      "english": "Atomic number",
+      "slovene": "Vrstno število"
+    },
+    {
+      "english": "Attenuation coefficient",
+      "slovene": "Absorpcijski koeficient"
+    },
+    {
+      "english": "Axis",
+      "slovene": "Os"
+    },
+    {
+      "english": "Background radiation",
+      "slovene": "Sevanje ozadja"
+    },
+    {
+      "english": "Background",
+      "slovene": "Ozadje"
+    },
+    {
+      "english": "Band gap (solid state physics)",
+      "slovene": "Energetska reža (fizika trdne snovi)"
+    },
+    {
+      "english": "Basis (linear algebra)",
+      "slovene": "Baza (linearna algebra)"
+    },
+    {
+      "english": "Bending",
+      "slovene": "Upogib"
+    },
+    {
+      "english": "Beta decay",
+      "slovene": "Razpad beta"
+    },
+    {
+      "english": "Beta particle",
+      "slovene": "Delec beta"
+    },
+    {
+      "english": "Bijective mapping",
+      "slovene": "Bijektivna preslikava"
+    },
+    {
+      "english": "Binding energy",
+      "slovene": "Vezavna energija"
+    },
+    {
+      "english": "Binormal",
+      "slovene": "Binormala"
+    },
+    {
+      "english": "Bisection method",
+      "slovene": "Metoda bisekcije"
+    },
+    {
+      "english": "Black body",
+      "slovene": "Črno telo"
+    },
+    {
+      "english": "Black-body radiation",
+      "slovene": "Sevanje črnega telesa"
+    },
+    {
+      "english": "Block",
+      "slovene": "Klado"
+    },
+    {
+      "english": "Boiling point",
+      "slovene": "Vrelišče"
+    },
+    {
+      "english": "Boundary condition",
+      "slovene": "Robni pogoj"
+    },
+    {
+      "english": "Boundedness",
+      "slovene": "Omejenost"
+    },
+    {
+      "english": "Branch",
+      "slovene": "Veja"
+    },
+    {
+      "english": "Bremsstrahlung",
+      "slovene": "Zavorno sevanje"
+    },
+    {
+      "english": "Brewster's angle",
+      "slovene": "Brewstrov kot"
+    },
+    {
+      "english": "Brittleness",
+      "slovene": "Krhkost"
+    },
+    {
+      "english": "Brownian motion",
+      "slovene": "Brownovo gibanje"
+    },
+    {
+      "english": "Bulk modulus",
+      "slovene": "Stisljivostni modul"
+    },
+    {
+      "english": "Buoyancy",
+      "slovene": "Vzgon"
+    },
+    {
+      "english": "Calculus of variations",
+      "slovene": "Variacijski račun"
+    },
+    {
+      "english": "Canonical ensemble (statistical physics)",
+      "slovene": "Kanonična porazdelitev (statistična fizika)"
+    },
+    {
+      "english": "Capacitance",
+      "slovene": "Kapacitivnost"
+    },
+    {
+      "english": "Capacitor",
+      "slovene": "Kondenzator"
+    },
+    {
+      "english": "Cardinality (of a set)",
+      "slovene": "Moč (množice)"
+    },
+    {
+      "english": "Cathode",
+      "slovene": "Katoda"
+    },
+    {
+      "english": "Center of mass",
+      "slovene": "Težišče"
+    },
+    {
+      "english": "Central force",
+      "slovene": "Centralna sila"
+    },
+    {
+      "english": "Central potential",
+      "slovene": "Centralni potencial"
+    },
+    {
+      "english": "Centrifugal force",
+      "slovene": "Centrifugalna sila"
+    },
+    {
+      "english": "Centripetal force",
+      "slovene": "Centripetalna sila"
+    },
+    {
+      "english": "Chaos",
+      "slovene": "Kaos"
+    },
+    {
+      "english": "Charge carrier",
+      "slovene": "Nosilec naboja"
+    },
+    {
+      "english": "Chemical potential",
+      "slovene": "Kemijski potencial"
+    },
+    {
+      "english": "Circular motion",
+      "slovene": "Krožno gibanje"
+    },
+    {
+      "english": "Cluster point (of a function; sequence...)",
+      "slovene": "Stekališče (funkcije; zaporedja...)"
+    },
+    {
+      "english": "Coefficient of kinetic friction",
+      "slovene": "Koeficient trenja"
+    },
+    {
+      "english": "Coefficient of static friction",
+      "slovene": "Koeficient lepenja"
+    },
+    {
+      "english": "Coherence",
+      "slovene": "Koherenca"
+    },
+    {
+      "english": "Commutator",
+      "slovene": "Komutator"
+    },
+    {
+      "english": "Compactness",
+      "slovene": "Kompaktnost"
+    },
+    {
+      "english": "Complex analysis",
+      "slovene": "Kompleksna analiza"
+    },
+    {
+      "english": "Complex number",
+      "slovene": "Kompleksno število"
+    },
+    {
+      "english": "Component",
+      "slovene": "Komponenta"
+    },
+    {
+      "english": "Compton scattering",
+      "slovene": "Comptonovo sipanje"
+    },
+    {
+      "english": "Concave lens",
+      "slovene": "Konkavna leča"
+    },
+    {
+      "english": "Condensed matter physics",
+      "slovene": "Fizika kondenzirane snovi"
+    },
+    {
+      "english": "Conduction band",
+      "slovene": "Prevodni pas"
+    },
+    {
+      "english": "Conservation law",
+      "slovene": "Ohranitveni zakon"
+    },
+    {
+      "english": "Conservation of momentum",
+      "slovene": "Ohranitev gibalne količine"
+    },
+    {
+      "english": "Conservative force",
+      "slovene": "Konzervativna sila"
+    },
+    {
+      "english": "Conservative vector field",
+      "slovene": "Potencialno vektorsko polje"
+    },
+    {
+      "english": "Constant of integration",
+      "slovene": "Integracijska konstanta"
+    },
+    {
+      "english": "Constructive interference",
+      "slovene": "Konstruktivna interferenca"
+    },
+    {
+      "english": "Continuity equation",
+      "slovene": "Kontinuitetna enačba"
+    },
+    {
+      "english": "Continuity",
+      "slovene": "Zveznost"
+    },
+    {
+      "english": "Continuous spectrum",
+      "slovene": "Zvezni spekter"
+    },
+    {
+      "english": "Continuum mechanics",
+      "slovene": "Mehanika kontinuov"
+    },
+    {
+      "english": "Convection",
+      "slovene": "Konvekcija"
+    },
+    {
+      "english": "Convergence",
+      "slovene": "Konvergenca"
+    },
+    {
+      "english": "Convex lens",
+      "slovene": "Konveksna leča"
+    },
+    {
+      "english": "Convolution",
+      "slovene": "Konvolucija"
+    },
+    {
+      "english": "Cooling",
+      "slovene": "Hlajenje"
+    },
+    {
+      "english": "Coordinate system",
+      "slovene": "Koordinatni sistem"
+    },
+    {
+      "english": "Corollary (mathematics)",
+      "slovene": "Posledica (matematika)"
+    },
+    {
+      "english": "Coupled pendulum",
+      "slovene": "Sklopljeno nihalo"
+    },
+    {
+      "english": "Coupling constant",
+      "slovene": "Sklopitvena konstanta"
+    },
+    {
+      "english": "Coupling",
+      "slovene": "Sklopitev"
+    },
+    {
+      "english": "Cross section",
+      "slovene": "Presek"
+    },
+    {
+      "english": "Curl",
+      "slovene": "Rotor"
+    },
+    {
+      "english": "Current density",
+      "slovene": "Gostota toka"
+    },
+    {
+      "english": "Curvature",
+      "slovene": "Ukrivljenost"
+    },
+    {
+      "english": "Curve",
+      "slovene": "Krivulja"
+    },
+    {
+      "english": "Curvilinear coordinate system",
+      "slovene": "Krivočrtni koordinatni sistem"
+    },
+    {
+      "english": "Cylinder",
+      "slovene": "Cilinder"
+    },
+    {
+      "english": "Damped motion",
+      "slovene": "Dušeno gibanje"
+    },
+    {
+      "english": "Damping ratio",
+      "slovene": "Konstanta dušenja"
+    },
+    {
+      "english": "Definite integral",
+      "slovene": "Določeni integral"
+    },
+    {
+      "english": "Deformation",
+      "slovene": "Deformacija"
+    },
+    {
+      "english": "Degenerate state",
+      "slovene": "Degenerirano stanje"
+    },
+    {
+      "english": "Density of states",
+      "slovene": "Gostota stanj"
+    },
+    {
+      "english": "Density",
+      "slovene": "Gostota"
+    },
+    {
+      "english": "Dependence",
+      "slovene": "Odvisnost"
+    },
+    {
+      "english": "Depletion region",
+      "slovene": "Depletirana plast"
+    },
+    {
+      "english": "Derivation",
+      "slovene": "Izpeljava"
+    },
+    {
+      "english": "Derivative",
+      "slovene": "Odvod"
+    },
+    {
+      "english": "Destructive interference",
+      "slovene": "Destruktivna interferenca"
+    },
+    {
+      "english": "Determinant",
+      "slovene": "Determinanta"
+    },
+    {
+      "english": "Diamagnetism",
+      "slovene": "Diamagnetizem"
+    },
+    {
+      "english": "Diameter",
+      "slovene": "Premer"
+    },
+    {
+      "english": "Dielectric",
+      "slovene": "Dielektrik"
+    },
+    {
+      "english": "Difference",
+      "slovene": "Razlika"
+    },
+    {
+      "english": "Differentiability",
+      "slovene": "Odvedljivost"
+    },
+    {
+      "english": "Differential",
+      "slovene": "Diferencial"
+    },
+    {
+      "english": "Diffraction grating",
+      "slovene": "Uklonska mrežica"
+    },
+    {
+      "english": "Diffraction",
+      "slovene": "Uklon"
+    },
+    {
+      "english": "Diffusion",
+      "slovene": "Difuzija"
+    },
+    {
+      "english": "Dimension",
+      "slovene": "Dimenzija"
+    },
+    {
+      "english": "Dipole moment",
+      "slovene": "Dipolni moment"
+    },
+    {
+      "english": "Direct current",
+      "slovene": "Enosmerni tok"
+    },
+    {
+      "english": "Direction",
+      "slovene": "Smer"
+    },
+    {
+      "english": "Dispersion",
+      "slovene": "Disperzija"
+    },
+    {
+      "english": "Displacement",
+      "slovene": "Premik"
+    },
+    {
+      "english": "Distance",
+      "slovene": "Razdalja"
+    },
+    {
+      "english": "Divergence",
+      "slovene": "Divergenca"
+    },
+    {
+      "english": "Dokaz",
+      "slovene": "Proof"
+    },
+    {
+      "english": "Domain (mathematics)",
+      "slovene": "Domena (matematika)"
+    },
+    {
+      "english": "Drag",
+      "slovene": "Upor"
+    },
+    {
+      "english": "Dynamic viscosity",
+      "slovene": "Dinamična viskoznost"
+    },
+    {
+      "english": "Dynamics",
+      "slovene": "Dinamika"
+    },
+    {
+      "english": "Effective mass",
+      "slovene": "Efektivna masa"
+    },
+    {
+      "english": "Eigenfunction",
+      "slovene": "Lastna funkcija"
+    },
+    {
+      "english": "Eigenstate",
+      "slovene": "Lastno stanje"
+    },
+    {
+      "english": "Eigenvalue",
+      "slovene": "Lastna vrednost"
+    },
+    {
+      "english": "Eigenvector",
+      "slovene": "Lastni vektor"
+    },
+    {
+      "english": "Elastic collision",
+      "slovene": "Prožni trk"
+    },
+    {
+      "english": "Elastic energy",
+      "slovene": "Prožna energija"
+    },
+    {
+      "english": "Elastic modulus",
+      "slovene": "Prožnostni modul"
+    },
+    {
+      "english": "Elasticity",
+      "slovene": "Prožnost"
+    },
+    {
+      "english": "Electric charge density",
+      "slovene": "Gostota električnega toka"
+    },
+    {
+      "english": "Electric charge",
+      "slovene": "Električni naboj"
+    },
+    {
+      "english": "Electric circuit",
+      "slovene": "Elektronsko vezja"
+    },
+    {
+      "english": "Electric current",
+      "slovene": "Električni tok"
+    },
+    {
+      "english": "Electric displacement field",
+      "slovene": "Gostota električnega polja"
+    },
+    {
+      "english": "Electric field strength",
+      "slovene": "Jakost električnega polja"
+    },
+    {
+      "english": "Electric field",
+      "slovene": "Električno polja"
+    },
+    {
+      "english": "Electric potential",
+      "slovene": "Električni potencial"
+    },
+    {
+      "english": "Electric power",
+      "slovene": "Električna moč"
+    },
+    {
+      "english": "Electric susceptibility",
+      "slovene": "Električna susceptibilnost"
+    },
+    {
+      "english": "Electrical conductivity",
+      "slovene": "Električna prevodnost"
+    },
+    {
+      "english": "Electrical conductor",
+      "slovene": "Električni prevodnik"
+    },
+    {
+      "english": "Electrical insulator",
+      "slovene": "Električni izolator"
+    },
+    {
+      "english": "Electrical resistance",
+      "slovene": "Upornost"
+    },
+    {
+      "english": "Electrical resistivity",
+      "slovene": "Specifična upornost"
+    },
+    {
+      "english": "Electricity",
+      "slovene": "Elektrika"
+    },
+    {
+      "english": "Electromagnetic field",
+      "slovene": "Elektromagnetno polje"
+    },
+    {
+      "english": "Electromagnetic induction",
+      "slovene": "Elektromagnetna indukcija"
+    },
+    {
+      "english": "Electromagnetic radiation",
+      "slovene": "Elektromagnetno sevanje"
+    },
+    {
+      "english": "Electromagnetic spectrum",
+      "slovene": "Elektromagnetni spekter"
+    },
+    {
+      "english": "Electromagnetic waves",
+      "slovene": "Elektromagnetno valovanje"
+    },
+    {
+      "english": "Electromagnetism",
+      "slovene": "Elektromagnetizem"
+    },
+    {
+      "english": "Electron",
+      "slovene": "Elektron"
+    },
+    {
+      "english": "Electronegativity",
+      "slovene": "Elektronegativnost"
+    },
+    {
+      "english": "Electronics",
+      "slovene": "Elektronika"
+    },
+    {
+      "english": "Electrostatics",
+      "slovene": "Elektrostatika"
+    },
+    {
+      "english": "Elementary charge",
+      "slovene": "Osnovni naboj"
+    },
+    {
+      "english": "Elementary particle",
+      "slovene": "Osnovni delec"
+    },
+    {
+      "english": "Emission",
+      "slovene": "Emisija"
+    },
+    {
+      "english": "Empty set",
+      "slovene": "Prazna množica"
+    },
+    {
+      "english": "Energy band",
+      "slovene": "Energetski pas"
+    },
+    {
+      "english": "Energy density",
+      "slovene": "Gostota energije"
+    },
+    {
+      "english": "Energy level",
+      "slovene": "Energijski nivo"
+    },
+    {
+      "english": "Energy",
+      "slovene": "Energija"
+    },
+    {
+      "english": "Enthalpy",
+      "slovene": "Entalpija"
+    },
+    {
+      "english": "Entropy",
+      "slovene": "Entropija"
+    },
+    {
+      "english": "Equation of motion",
+      "slovene": "Enačba gibanja"
+    },
+    {
+      "english": "Equilibrium",
+      "slovene": "Ravnovesje"
+    },
+    {
+      "english": "Equipartition principle",
+      "slovene": "Ekviparticijski izrek"
+    },
+    {
+      "english": "Error",
+      "slovene": "Napaka"
+    },
+    {
+      "english": "Even number",
+      "slovene": "Sodo število"
+    },
+    {
+      "english": "Example",
+      "slovene": "Zgled"
+    },
+    {
+      "english": "Excited state",
+      "slovene": "Vzbujeno stanje"
+    },
+    {
+      "english": "Existence",
+      "slovene": "Obstoj"
+    },
+    {
+      "english": "Expected value",
+      "slovene": "Pričakovana vrednost"
+    },
+    {
+      "english": "Extremum (of a function)",
+      "slovene": "Ekstrem (funkcije)"
+    },
+    {
+      "english": "Ferromagnetism",
+      "slovene": "Feromagnetizem"
+    },
+    {
+      "english": "Field line",
+      "slovene": "Silnica"
+    },
+    {
+      "english": "Fine-structure constant",
+      "slovene": "Konstanta fine strukture"
+    },
+    {
+      "english": "Fission",
+      "slovene": "Cepitev"
+    },
+    {
+      "english": "Flavor",
+      "slovene": "Okus"
+    },
+    {
+      "english": "Flow (of a fluid)",
+      "slovene": "Tok (tekočine)"
+    },
+    {
+      "english": "Fluid mechanics",
+      "slovene": "Mehanika tekočin"
+    },
+    {
+      "english": "Fluid",
+      "slovene": "Tekočina"
+    },
+    {
+      "english": "Flux density",
+      "slovene": "Gostota pretoka"
+    },
+    {
+      "english": "Flux",
+      "slovene": "Pretok"
+    },
+    {
+      "english": "Focus",
+      "slovene": "Fokus"
+    },
+    {
+      "english": "Force",
+      "slovene": "Sila"
+    },
+    {
+      "english": "Forced oscillation",
+      "slovene": "Vsiljeno nihanje"
+    },
+    {
+      "english": "Four vector",
+      "slovene": "Četverec"
+    },
+    {
+      "english": "Fraction",
+      "slovene": "Ulomek"
+    },
+    {
+      "english": "Frame (linear algebra)",
+      "slovene": "Ogrodje (linearna algebra)"
+    },
+    {
+      "english": "Frame of reference",
+      "slovene": "Opazovalni sistem"
+    },
+    {
+      "english": "Free fall",
+      "slovene": "Prosti pad"
+    },
+    {
+      "english": "Frequency",
+      "slovene": "Frekvenca"
+    },
+    {
+      "english": "Friction",
+      "slovene": "Trenje"
+    },
+    {
+      "english": "Function",
+      "slovene": "Funkcija"
+    },
+    {
+      "english": "Fundamental forces",
+      "slovene": "Osnovne sile"
+    },
+    {
+      "english": "Fundamental frequency",
+      "slovene": "Osnovna frekvenca"
+    },
+    {
+      "english": "Fusion",
+      "slovene": "Zlivanje"
+    },
+    {
+      "english": "Gamma ray",
+      "slovene": "Žarek gama"
+    },
+    {
+      "english": "Gas constant",
+      "slovene": "Plinska konstanta"
+    },
+    {
+      "english": "Gas",
+      "slovene": "Plin"
+    },
+    {
+      "english": "Gauge transformation",
+      "slovene": "Umeritvena transformacija"
+    },
+    {
+      "english": "Gauge",
+      "slovene": "Umeritev"
+    },
+    {
+      "english": "General theory of relativity",
+      "slovene": "Splošna teorija relativnosti"
+    },
+    {
+      "english": "Geometry",
+      "slovene": "Geometrija"
+    },
+    {
+      "english": "Goodness-of-fit test (statistics)",
+      "slovene": "Oblikovni test (statistika)"
+    },
+    {
+      "english": "Gradient",
+      "slovene": "Gradient"
+    },
+    {
+      "english": "Grand canonical ensemble (statistical physics)",
+      "slovene": "Velekanonična porazdelitev (statistična fizika)"
+    },
+    {
+      "english": "Gravitation",
+      "slovene": "Gravitacija"
+    },
+    {
+      "english": "Gravitational constant",
+      "slovene": "Gravitacijska konstanta"
+    },
+    {
+      "english": "Gravitational energy",
+      "slovene": "Gravitacijska energija"
+    },
+    {
+      "english": "Gravitational field",
+      "slovene": "Gravitacijsko polje"
+    },
+    {
+      "english": "Gravitational potential",
+      "slovene": "Gravitacijski potencial"
+    },
+    {
+      "english": "Gravity",
+      "slovene": "Težnost"
+    },
+    {
+      "english": "Ground state",
+      "slovene": "Osnovno stanje"
+    },
+    {
+      "english": "Group velocity",
+      "slovene": "Skupinska hitrost"
+    },
+    {
+      "english": "Half-life",
+      "slovene": "Razpolovni čas"
+    },
+    {
+      "english": "Heat capacity",
+      "slovene": "Toplotna kapaciteta"
+    },
+    {
+      "english": "Heat current density",
+      "slovene": "Gostota toplotnega toka"
+    },
+    {
+      "english": "Heat engine",
+      "slovene": "Toplotni stroj"
+    },
+    {
+      "english": "Heat",
+      "slovene": "Toplota"
+    },
+    {
+      "english": "Heating",
+      "slovene": "Segrevanje"
+    },
+    {
+      "english": "Height",
+      "slovene": "Višina"
+    },
+    {
+      "english": "Helicity",
+      "slovene": "Sučnost"
+    },
+    {
+      "english": "Helmholtz free energy",
+      "slovene": "Prosta energija"
+    },
+    {
+      "english": "Hole (solid state physics)",
+      "slovene": "Vrzel (fizika trdne snovi)"
+    },
+    {
+      "english": "Homogeneous semiconductor",
+      "slovene": "Homogen polprevodnik"
+    },
+    {
+      "english": "Humidity",
+      "slovene": "Vlažnost"
+    },
+    {
+      "english": "Hydrostatics",
+      "slovene": "Hidrostatika"
+    },
+    {
+      "english": "Impedance",
+      "slovene": "Impedanca"
+    },
+    {
+      "english": "Impurity",
+      "slovene": "Nečistoča"
+    },
+    {
+      "english": "Incidence",
+      "slovene": "Vpad"
+    },
+    {
+      "english": "Incompressible",
+      "slovene": "Nestisljiv"
+    },
+    {
+      "english": "Indefinite integral",
+      "slovene": "Nedoločeni integral"
+    },
+    {
+      "english": "Independence",
+      "slovene": "Neodvisnost"
+    },
+    {
+      "english": "Inductance",
+      "slovene": "Induktivnost"
+    },
+    {
+      "english": "Inertia",
+      "slovene": "Inercija"
+    },
+    {
+      "english": "Injective mapping",
+      "slovene": "Injektivna preslikava"
+    },
+    {
+      "english": "Integrability",
+      "slovene": "Integrabilnost"
+    },
+    {
+      "english": "Integral",
+      "slovene": "Integral"
+    },
+    {
+      "english": "Intensity",
+      "slovene": "Intenziteta"
+    },
+    {
+      "english": "Internal energy",
+      "slovene": "Notranja energija"
+    },
+    {
+      "english": "Interpolation",
+      "slovene": "Interpolacija"
+    },
+    {
+      "english": "Intersection (set theory)",
+      "slovene": "Presek (teorija množic)"
+    },
+    {
+      "english": "Intrinsic semiconductor",
+      "slovene": "Intrinzični polprevodnik"
+    },
+    {
+      "english": "Ion",
+      "slovene": "Ion"
+    },
+    {
+      "english": "Ionization",
+      "slovene": "Ionizacija"
+    },
+    {
+      "english": "Ionizing radiation",
+      "slovene": "Ionizirajoče sevanje"
+    },
+    {
+      "english": "Irrotational (vector field)",
+      "slovene": "Brezvrtinčno (vektorsko polja)"
+    },
+    {
+      "english": "Isentropic flow",
+      "slovene": "Izentropni tok"
+    },
+    {
+      "english": "Isotope",
+      "slovene": "Izotop"
+    },
+    {
+      "english": "Isotropic",
+      "slovene": "Izotropen"
+    },
+    {
+      "english": "Iteration",
+      "slovene": "Iteracija"
+    },
+    {
+      "english": "Kinematic viscosity",
+      "slovene": "Kinematična viskoznost"
+    },
+    {
+      "english": "Kinematics",
+      "slovene": "Kinematika"
+    },
+    {
+      "english": "Kinetic energy",
+      "slovene": "Kinetična energija"
+    },
+    {
+      "english": "Laminar flow",
+      "slovene": "Laminarni pretok"
+    },
+    {
+      "english": "Lattice (crystal)",
+      "slovene": "Rešetka (kristali)"
+    },
+    {
+      "english": "Lattice oscillations",
+      "slovene": "Mrežna nihanja"
+    },
+    {
+      "english": "Lattice plane",
+      "slovene": "Mrežna ravnina"
+    },
+    {
+      "english": "Length",
+      "slovene": "Dolžina"
+    },
+    {
+      "english": "Lever",
+      "slovene": "Vzvod"
+    },
+    {
+      "english": "Light",
+      "slovene": "Luč"
+    },
+    {
+      "english": "Limit (of a function; sequence...)",
+      "slovene": "Limita (funkcije; zaporedja...)"
+    },
+    {
+      "english": "Limits of integration",
+      "slovene": "Integracijske meje"
+    },
+    {
+      "english": "Line",
+      "slovene": "Premica"
+    },
+    {
+      "english": "Linear charge density",
+      "slovene": "Linearna gostota naboja"
+    },
+    {
+      "english": "Linear density",
+      "slovene": "Linearna gostota"
+    },
+    {
+      "english": "Liquid",
+      "slovene": "Tekočina"
+    },
+    {
+      "english": "Logarithm",
+      "slovene": "Logaritem"
+    },
+    {
+      "english": "Magnetic dipole moment",
+      "slovene": "Magnetni dipolni moment"
+    },
+    {
+      "english": "Magnetic field strength",
+      "slovene": "Jakost magnetnega polja"
+    },
+    {
+      "english": "Magnetic field",
+      "slovene": "Magnetno polje"
+    },
+    {
+      "english": "Magnetic flux density",
+      "slovene": "Gostota magnetnega pretoka"
+    },
+    {
+      "english": "Magnetic flux",
+      "slovene": "Magnetni pretok"
+    },
+    {
+      "english": "Magnetic moment",
+      "slovene": "Magnetni moment"
+    },
+    {
+      "english": "Magnetization",
+      "slovene": "Magnetizacija"
+    },
+    {
+      "english": "Magnetostatics",
+      "slovene": "Magnetostatika"
+    },
+    {
+      "english": "Mapping (mathematics)",
+      "slovene": "Preslikava (matematika)"
+    },
+    {
+      "english": "Mass density",
+      "slovene": "Gostota mase"
+    },
+    {
+      "english": "Mass flux",
+      "slovene": "Masni pretok"
+    },
+    {
+      "english": "Mass number",
+      "slovene": "Masno število"
+    },
+    {
+      "english": "Mass",
+      "slovene": "Masa"
+    },
+    {
+      "english": "Matrix decomposition",
+      "slovene": "Razcep matrike"
+    },
+    {
+      "english": "Matrix element",
+      "slovene": "Matrični element"
+    },
+    {
+      "english": "Matrix",
+      "slovene": "Matrika"
+    },
+    {
+      "english": "Matter",
+      "slovene": "Snov"
+    },
+    {
+      "english": "Maximum",
+      "slovene": "Maksimum"
+    },
+    {
+      "english": "Mean",
+      "slovene": "Povprečje"
+    },
+    {
+      "english": "Measure (mathematics)",
+      "slovene": "Mera (matematika)"
+    },
+    {
+      "english": "Mechanical equilibrium",
+      "slovene": "Mehansko ravnovesje"
+    },
+    {
+      "english": "Mechanical work",
+      "slovene": "Mehansko delo"
+    },
+    {
+      "english": "Mechanics",
+      "slovene": "Mehanika"
+    },
+    {
+      "english": "Medium",
+      "slovene": "Sredstvo"
+    },
+    {
+      "english": "Melting point",
+      "slovene": "Tališče"
+    },
+    {
+      "english": "Melting",
+      "slovene": "Taljenje"
+    },
+    {
+      "english": "Microcanonical ensemble (statistical physics)",
+      "slovene": "Mikrokanonična porazdelitev (statistična fizika)"
+    },
+    {
+      "english": "Minimum",
+      "slovene": "Minimum"
+    },
+    {
+      "english": "Modulus of elasticity",
+      "slovene": "Prožnostni modul"
+    },
+    {
+      "english": "Molar mass",
+      "slovene": "Molarna masa"
+    },
+    {
+      "english": "Molecule",
+      "slovene": "Molekula"
+    },
+    {
+      "english": "Moment of inertia",
+      "slovene": "Vztrajnostni moment"
+    },
+    {
+      "english": "Momentum",
+      "slovene": "Gibalna količina"
+    },
+    {
+      "english": "Motion",
+      "slovene": "Gibanje"
+    },
+    {
+      "english": "Multiplicity",
+      "slovene": "Kratnost"
+    },
+    {
+      "english": "Nastavek",
+      "slovene": "Ansatz"
+    },
+    {
+      "english": "Neighborhood (mathematics)",
+      "slovene": "Okolica (matematika)"
+    },
+    {
+      "english": "Neutron",
+      "slovene": "Nevtron"
+    },
+    {
+      "english": "Normal force",
+      "slovene": "Sila normale"
+    },
+    {
+      "english": "Normal vector",
+      "slovene": "Vector normale"
+    },
+    {
+      "english": "Normal",
+      "slovene": "Normala"
+    },
+    {
+      "english": "Nuclear physics",
+      "slovene": "Jedrska fizika"
+    },
+    {
+      "english": "Nuclear reaction",
+      "slovene": "Jedrska reakcija"
+    },
+    {
+      "english": "Nucleus",
+      "slovene": "Jedro"
+    },
+    {
+      "english": "Odd number",
+      "slovene": "Liho število"
+    },
+    {
+      "english": "Open set",
+      "slovene": "Odprta množica"
+    },
+    {
+      "english": "Optic axis (crystal optics)",
+      "slovene": "Optična os (kristalna optika)"
+    },
+    {
+      "english": "Optics",
+      "slovene": "Optika"
+    },
+    {
+      "english": "Orbita",
+      "slovene": "Orbit"
+    },
+    {
+      "english": "Order",
+      "slovene": "Red"
+    },
+    {
+      "english": "Orthogonal",
+      "slovene": "Ortogonalen"
+    },
+    {
+      "english": "Orthonormal",
+      "slovene": "Ortonormiran"
+    },
+    {
+      "english": "Oscillation",
+      "slovene": "Nihanje"
+    },
+    {
+      "english": "Osculating circle",
+      "slovene": "Pritisnjena krožnica"
+    },
+    {
+      "english": "Osculating plane",
+      "slovene": "Pritisnjena ravnina"
+    },
+    {
+      "english": "Packing factor",
+      "slovene": "Polnitveno razmerje"
+    },
+    {
+      "english": "Parallel circuit",
+      "slovene": "Vzporedno vezje"
+    },
+    {
+      "english": "Parallel",
+      "slovene": "Vzporeden"
+    },
+    {
+      "english": "Parameter-dependent integral",
+      "slovene": "Integral s parametrom"
+    },
+    {
+      "english": "Parity",
+      "slovene": "Parnost"
+    },
+    {
+      "english": "Partial derivative",
+      "slovene": "Parcialni odvod"
+    },
+    {
+      "english": "Particle accelerator",
+      "slovene": "Pospeševalnik"
+    },
+    {
+      "english": "Particle physics",
+      "slovene": "Fizika osnovnih delcev"
+    },
+    {
+      "english": "Particle",
+      "slovene": "Delec"
+    },
+    {
+      "english": "Partition function (statistical physics)",
+      "slovene": "Fazna vsota/integral (statistična fizika)"
+    },
+    {
+      "english": "Pauli exclusion principle",
+      "slovene": "Paulijevo izključitveno načelo"
+    },
+    {
+      "english": "Pendulum",
+      "slovene": "Nihalo"
+    },
+    {
+      "english": "Period",
+      "slovene": "Nihajni čas"
+    },
+    {
+      "english": "Permeability",
+      "slovene": "Permeabilnost"
+    },
+    {
+      "english": "Permittivity",
+      "slovene": "Permitivnost"
+    },
+    {
+      "english": "Perpendicular",
+      "slovene": "Pravokoten"
+    },
+    {
+      "english": "Perturbation theory",
+      "slovene": "Teorija motenj"
+    },
+    {
+      "english": "Perturbation",
+      "slovene": "Motnja"
+    },
+    {
+      "english": "Phase equilibrium",
+      "slovene": "Fazno ravnovesje"
+    },
+    {
+      "english": "Phase space",
+      "slovene": "Fazni prostor"
+    },
+    {
+      "english": "Phase velocity",
+      "slovene": "Fazna hitrost"
+    },
+    {
+      "english": "Phase",
+      "slovene": "Faza"
+    },
+    {
+      "english": "Photoelectric effect",
+      "slovene": "Fotoelektrični pojav"
+    },
+    {
+      "english": "Photon",
+      "slovene": "Foton"
+    },
+    {
+      "english": "Photonics",
+      "slovene": "Fotonika"
+    },
+    {
+      "english": "Physical constant",
+      "slovene": "Fizikalna konstanta"
+    },
+    {
+      "english": "Physical quantity",
+      "slovene": "Fizikalna količina"
+    },
+    {
+      "english": "Physics",
+      "slovene": "Fizika"
+    },
+    {
+      "english": "Piecewise continuous",
+      "slovene": "Odsekoma zvezen"
+    },
+    {
+      "english": "Piezoelectricity",
+      "slovene": "Piezoelektričnost"
+    },
+    {
+      "english": "Plane wave",
+      "slovene": "Ravni val"
+    },
+    {
+      "english": "Plasticity",
+      "slovene": "Plastičnost"
+    },
+    {
+      "english": "Plate",
+      "slovene": "Plošča"
+    },
+    {
+      "english": "Polynomial",
+      "slovene": "Polinom"
+    },
+    {
+      "english": "Position vector",
+      "slovene": "Radij vektor"
+    },
+    {
+      "english": "Position",
+      "slovene": "Položaj"
+    },
+    {
+      "english": "Potential energy",
+      "slovene": "Potencialna energija"
+    },
+    {
+      "english": "Power (exponent)",
+      "slovene": "Potenca (eksponent)"
+    },
+    {
+      "english": "Power",
+      "slovene": "Moč"
+    },
+    {
+      "english": "Predpostavka",
+      "slovene": "Assumption"
+    },
+    {
+      "english": "Prehod",
+      "slovene": "Transition"
+    },
+    {
+      "english": "Prenosna matrika",
+      "slovene": "Transfer matrix"
+    },
+    {
+      "english": "Pressure",
+      "slovene": "Tlak"
+    },
+    {
+      "english": "Primitive vector",
+      "slovene": "Primitivni vektor"
+    },
+    {
+      "english": "Principle of relativity",
+      "slovene": "Načelo relativnosti"
+    },
+    {
+      "english": "Probability distribution",
+      "slovene": "Verjetnostna porazdelitev"
+    },
+    {
+      "english": "Probability",
+      "slovene": "Verjetnost"
+    },
+    {
+      "english": "Projection",
+      "slovene": "Projekcija"
+    },
+    {
+      "english": "Proposition",
+      "slovene": "Trditev"
+    },
+    {
+      "english": "Pulley",
+      "slovene": "Škripec"
+    },
+    {
+      "english": "Quantum electrodynamics",
+      "slovene": "Kvanta elektrodinamika"
+    },
+    {
+      "english": "Quantum field theory",
+      "slovene": "Kvanta teorija polja"
+    },
+    {
+      "english": "Quantum gravity",
+      "slovene": "Kvanta gravitacija"
+    },
+    {
+      "english": "Quantum mechanics",
+      "slovene": "Kvanta mehanika"
+    },
+    {
+      "english": "Quantum number",
+      "slovene": "Kvantno število"
+    },
+    {
+      "english": "Quantum state",
+      "slovene": "Kvantno stanje"
+    },
+    {
+      "english": "Radiation",
+      "slovene": "Sevanje"
+    },
+    {
+      "english": "Radioactive decay",
+      "slovene": "Radioaktivni razpad"
+    },
+    {
+      "english": "Radius of curvature",
+      "slovene": "Radij ukrivljenosti"
+    },
+    {
+      "english": "Radius",
+      "slovene": "Radij"
+    },
+    {
+      "english": "Ratio",
+      "slovene": "Razmerja"
+    },
+    {
+      "english": "Reduced mass",
+      "slovene": "Reducirana masa"
+    },
+    {
+      "english": "Refraction",
+      "slovene": "Lom"
+    },
+    {
+      "english": "Refractive index",
+      "slovene": "Lomni količnik"
+    },
+    {
+      "english": "Relativistic mass",
+      "slovene": "Relativistična masa"
+    },
+    {
+      "english": "Residue (complex analysis)",
+      "slovene": "Residuum (kompleksna analiza)"
+    },
+    {
+      "english": "Resistivity",
+      "slovene": "Specifična upornost"
+    },
+    {
+      "english": "Resolution",
+      "slovene": "Ločljivost"
+    },
+    {
+      "english": "Rest frame",
+      "slovene": "Mirovni sistem"
+    },
+    {
+      "english": "Rigid body",
+      "slovene": "Togo telo"
+    },
+    {
+      "english": "Rod",
+      "slovene": "Palica"
+    },
+    {
+      "english": "Rotation",
+      "slovene": "Rotacija"
+    },
+    {
+      "english": "Sample",
+      "slovene": "Vzorec"
+    },
+    {
+      "english": "Scalar",
+      "slovene": "Skalar"
+    },
+    {
+      "english": "Scale",
+      "slovene": "Skala"
+    },
+    {
+      "english": "Scattering cross section",
+      "slovene": "Sipalni presek"
+    },
+    {
+      "english": "Scattering",
+      "slovene": "Sipanje"
+    },
+    {
+      "english": "Self-adjoint operator",
+      "slovene": "Sebi-adjungiran operator"
+    },
+    {
+      "english": "Semiconductor",
+      "slovene": "Polprevodnik"
+    },
+    {
+      "english": "Sequence",
+      "slovene": "Zaporedje"
+    },
+    {
+      "english": "Series circuit",
+      "slovene": "Zaporedno vezje"
+    },
+    {
+      "english": "Series expansion",
+      "slovene": "Razvoj v vrsto"
+    },
+    {
+      "english": "Set",
+      "slovene": "Množica"
+    },
+    {
+      "english": "Shear force",
+      "slovene": "Strižna sila"
+    },
+    {
+      "english": "Shear modulus",
+      "slovene": "Strižni modul"
+    },
+    {
+      "english": "Shear strain",
+      "slovene": "Strižna deformacija"
+    },
+    {
+      "english": "Shear stress",
+      "slovene": "Strižna napetost"
+    },
+    {
+      "english": "Shell model (nuclear physics)",
+      "slovene": "Lupinski model (fizika jedra)"
+    },
+    {
+      "english": "Shell",
+      "slovene": "Lupina"
+    },
+    {
+      "english": "Sink",
+      "slovene": "Ponor"
+    },
+    {
+      "english": "Skin effect",
+      "slovene": "Kožni pojav"
+    },
+    {
+      "english": "Slit",
+      "slovene": "Reža"
+    },
+    {
+      "english": "Solid angle",
+      "slovene": "Prostorski kot"
+    },
+    {
+      "english": "Solid-state physics",
+      "slovene": "Fizika trdne snovi"
+    },
+    {
+      "english": "Solubility",
+      "slovene": "Topnost"
+    },
+    {
+      "english": "Solution",
+      "slovene": "Rešitev"
+    },
+    {
+      "english": "Sound",
+      "slovene": "Zvok"
+    },
+    {
+      "english": "Source",
+      "slovene": "Izvor"
+    },
+    {
+      "english": "Special theory of relativity",
+      "slovene": "Posebna teorija relativnosti"
+    },
+    {
+      "english": "Speed of light",
+      "slovene": "Hitrost svetlobe"
+    },
+    {
+      "english": "Speed of sound",
+      "slovene": "Hitrost zvoka"
+    },
+    {
+      "english": "Speed",
+      "slovene": "Hitrost"
+    },
+    {
+      "english": "Sphere",
+      "slovene": "Sfera"
+    },
+    {
+      "english": "Spin",
+      "slovene": "Spin"
+    },
+    {
+      "english": "Standard deviation",
+      "slovene": "Standardna deviacija"
+    },
+    {
+      "english": "Standing wave",
+      "slovene": "Stoječi val"
+    },
+    {
+      "english": "State of matter",
+      "slovene": "Faza snovi"
+    },
+    {
+      "english": "Statics",
+      "slovene": "Statika"
+    },
+    {
+      "english": "Stationary state",
+      "slovene": "Stacionarno stanje"
+    },
+    {
+      "english": "Statistical mechanics",
+      "slovene": "Statistična mehanika"
+    },
+    {
+      "english": "Stiffness",
+      "slovene": "Togost"
+    },
+    {
+      "english": "Strain",
+      "slovene": "Deformacija"
+    },
+    {
+      "english": "Streamline",
+      "slovene": "Tokovnica"
+    },
+    {
+      "english": "Stress",
+      "slovene": "Mehanska napetost"
+    },
+    {
+      "english": "Sublimation",
+      "slovene": "Sublimacija"
+    },
+    {
+      "english": "Sum",
+      "slovene": "Vsota"
+    },
+    {
+      "english": "Superconductivity",
+      "slovene": "Superprevodnost"
+    },
+    {
+      "english": "Superconductor",
+      "slovene": "Superprevodnik"
+    },
+    {
+      "english": "Surface (surface)",
+      "slovene": "Ploskev (matematika)"
+    },
+    {
+      "english": "Surface area",
+      "slovene": "Površina"
+    },
+    {
+      "english": "Surface tension",
+      "slovene": "Površinska napetost"
+    },
+    {
+      "english": "Surface",
+      "slovene": "Površina"
+    },
+    {
+      "english": "Surjective mapping",
+      "slovene": "Surjektivna preslikava"
+    },
+    {
+      "english": "Symmetry",
+      "slovene": "Simetrija"
+    },
+    {
+      "english": "Tangent",
+      "slovene": "Tangenta"
+    },
+    {
+      "english": "Temperature",
+      "slovene": "Temperatura"
+    },
+    {
+      "english": "Theorem",
+      "slovene": "Izrek"
+    },
+    {
+      "english": "Theory of relativity",
+      "slovene": "Teorija relativnosti"
+    },
+    {
+      "english": "Thermal conduction",
+      "slovene": "Kondukcija"
+    },
+    {
+      "english": "Thermal conductivity",
+      "slovene": "Toplotna prevodnost"
+    },
+    {
+      "english": "Thermal equilibrium",
+      "slovene": "Toplotno ravnovesje"
+    },
+    {
+      "english": "Thermodynamics",
+      "slovene": "Termodinamika"
+    },
+    {
+      "english": "Thermometer",
+      "slovene": "Termometer"
+    },
+    {
+      "english": "Time constant",
+      "slovene": "Časovna konstanta"
+    },
+    {
+      "english": "Time",
+      "slovene": "Čas"
+    },
+    {
+      "english": "Torque",
+      "slovene": "Navor"
+    },
+    {
+      "english": "Torsion coefficient",
+      "slovene": "Torzijski koeficient"
+    },
+    {
+      "english": "Torsion",
+      "slovene": "Torzija"
+    },
+    {
+      "english": "Total internal reflection",
+      "slovene": "Popolni odboj"
+    },
+    {
+      "english": "Trajectory",
+      "slovene": "Tirnica"
+    },
+    {
+      "english": "Transport phenomenon",
+      "slovene": "Transportni pojav"
+    },
+    {
+      "english": "Transverse wave",
+      "slovene": "Transverzalni val"
+    },
+    {
+      "english": "Trigonometry",
+      "slovene": "Trigonometrija"
+    },
+    {
+      "english": "Triple point",
+      "slovene": "Trojna točka"
+    },
+    {
+      "english": "Uncertainty principle",
+      "slovene": "Načelo nedoločenosti"
+    },
+    {
+      "english": "Uniform circular motion",
+      "slovene": "Enakomerno kroženje"
+    },
+    {
+      "english": "Uniform convergence",
+      "slovene": "Enakomerna konvergenca"
+    },
+    {
+      "english": "Uniform motion",
+      "slovene": "Enakomerno gibanje"
+    },
+    {
+      "english": "Union (set theory)",
+      "slovene": "Unija (teorija množic)"
+    },
+    {
+      "english": "Unit cell",
+      "slovene": "Osnovna celica"
+    },
+    {
+      "english": "Unit vector",
+      "slovene": "Enotski vektor"
+    },
+    {
+      "english": "Vacuum",
+      "slovene": "Vakuum"
+    },
+    {
+      "english": "Valence band",
+      "slovene": "Valenčni pas"
+    },
+    {
+      "english": "Valence electron",
+      "slovene": "Valenčni elektron"
+    },
+    {
+      "english": "Vector premika",
+      "slovene": "Displacement vector"
+    },
+    {
+      "english": "Vector space",
+      "slovene": "Vektorski prostor"
+    },
+    {
+      "english": "Vector",
+      "slovene": "Vektor"
+    },
+    {
+      "english": "Velocity",
+      "slovene": "Hitrost"
+    },
+    {
+      "english": "Virial expansion",
+      "slovene": "Virialni razvoj"
+    },
+    {
+      "english": "Virial theorem",
+      "slovene": "Virialni teorem"
+    },
+    {
+      "english": "Viscosity",
+      "slovene": "Viskoznost"
+    },
+    {
+      "english": "Visible light",
+      "slovene": "Vidna svetloba"
+    },
+    {
+      "english": "Voltage",
+      "slovene": "Električna napetost"
+    },
+    {
+      "english": "Voltmeter",
+      "slovene": "Voltmeter"
+    },
+    {
+      "english": "Volume charge density",
+      "slovene": "Volumska gostota naboja"
+    },
+    {
+      "english": "Volume density",
+      "slovene": "Volumska gostota"
+    },
+    {
+      "english": "Volume",
+      "slovene": "Volumen"
+    },
+    {
+      "english": "Volumetric flow rate",
+      "slovene": "Volumski pretok"
+    },
+    {
+      "english": "Wave equation",
+      "slovene": "Valovna enačba"
+    },
+    {
+      "english": "Wave front",
+      "slovene": "Valovna fronta"
+    },
+    {
+      "english": "Wave function",
+      "slovene": "Valovna funkcija"
+    },
+    {
+      "english": "Wave number",
+      "slovene": "Valovno število"
+    },
+    {
+      "english": "Wave packet",
+      "slovene": "Valovni paket"
+    },
+    {
+      "english": "Wave vector",
+      "slovene": "Valovni vektor"
+    },
+    {
+      "english": "Wave",
+      "slovene": "Val"
+    },
+    {
+      "english": "Wavelength",
+      "slovene": "Valovna dolžina"
+    },
+    {
+      "english": "Weak interaction",
+      "slovene": "Šibka interakcija"
+    },
+    {
+      "english": "Wedge",
+      "slovene": "Klin"
+    },
+    {
+      "english": "Weight",
+      "slovene": "Teža"
+    },
+    {
+      "english": "Wheel",
+      "slovene": "Kolo"
+    },
+    {
+      "english": "Width",
+      "slovene": "Širina"
+    },
+    {
+      "english": "Work function",
+      "slovene": "Izstopno delo"
+    },
+    {
+      "english": "Work",
+      "slovene": "Delo"
+    },
+    {
+      "english": "Young's modulus",
+      "slovene": "Youngov modul"
+    },
+    {
+      "english": "p-n junction (solid state physics)",
+      "slovene": "p-n stik (fizika trdne snovi)"
+    }
+  ]
+}
