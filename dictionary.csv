@@ -20,10 +20,12 @@ Angular frequency,Kotna frekvenca
 Angular momentum,Vrtilna količina
 Angular velocity,Kotna hitrost
 Anode,Anoda
+Ansatz,Nastavek
 Arc length,Dolžina loka
 Area charge density,Površinska gostota naboja
 Area density,Površinska gostota
 Area,Površina
+Assumption,Predpostavka
 Asymptote,Asimptota
 Atom,Atom
 Atomic mass,Atomska masa
@@ -330,7 +332,6 @@ Moment of inertia,Vztrajnostni moment
 Momentum,Gibalna količina
 Motion,Gibanje
 Multiplicity,Kratnost
-Nastavek,Ansatz
 Neighborhood (mathematics),Okolica (matematika)
 Neutron,Nevtron
 Normal force,Sila normale
@@ -389,9 +390,6 @@ Position,Položaj
 Potential energy,Potencialna energija
 Power (exponent),Potenca (eksponent)
 Power,Moč
-Predpostavka,Assumption
-Prehod,Transition
-Prenosna matrika,Transfer matrix
 Pressure,Tlak
 Primitive vector,Primitivni vektor
 Principle of relativity,Načelo relativnosti
@@ -490,6 +488,8 @@ Torsion coefficient,Torzijski koeficient
 Torsion,Torzija
 Total internal reflection,Popolni odboj
 Trajectory,Tirnica
+Transfer matrix,Prenosna matrika
+Transition,Prehod
 Transport phenomenon,Transportni pojav
 Transverse wave,Transverzalni val
 Trigonometry,Trigonometrija
