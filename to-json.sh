@@ -8,10 +8,14 @@ input_file="dictionary.csv"
 output_file="dictionary.json"
 indent="  "
 
+# Sort CSV file and remove duplicate entries
+sort "${input_file}" | uniq > "${input_file}.tmp"
+rm "${input_file}"
+mv "${input_file}.tmp" "${input_file}"
+
 # Read number of lines in CSV file, ultimately used to avoid printing
 # comma after final JSON object
 lines=`wc -l ${input_file} | cut -f1 -d' '`
-i=1
 
 # Outermost opening brace
 echo "{" > "${output_file}"
@@ -19,6 +23,7 @@ echo "{" > "${output_file}"
 # Open main array
 echo "${indent}\"terms\": [" >> "${output_file}"
 
+i=1
 while read line
 do
   english="${line%%,*}"
