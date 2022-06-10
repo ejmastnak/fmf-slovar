@@ -4,10 +4,12 @@ Acceleration due to gravity,Težnostni pospešek
 Acceleration,Pospešek
 Acoustics,Akustika
 Action,Akcija
+Adjoint operator,Adjungiran operator
 Alloy,Zlitina
 Alpha decay,Razpad alfa
 Alpha particle,Delec alfa
 Alternating current,Izmenjujoči tok
+Amplification factor;gain,Ojačevalni faktor
 Amplifier,Ojačevalnik
 Amplitude,Amplituda
 Angle of incidence,Vpadni kot
@@ -23,6 +25,7 @@ Arc length,Dolžina loka
 Area charge density,Površinska gostota naboja
 Area density,Površinska gostota
 Area,Površina
+Asymptote,Asimptota
 Atom,Atom
 Atomic mass,Atomska masa
 Atomic number,Vrstno število
@@ -30,63 +33,106 @@ Attenuation coefficient,Absorpcijski koeficient
 Axis,Os
 Background radiation,Sevanje ozadja
 Background,Ozadje
+Band gap (solid state physics),Energetska reža (fizika trdne snovi)
+Basis (linear algebra),Baza (linearna algebra)
 Bending,Upogib
 Beta decay,Razpad beta
 Beta particle,Delec beta
+Bijective mapping,Bijektivna preslikava
 Binding energy,Vezavna energija
+Binormal,Binormala
+Bisection method,Metoda bisekcije
 Black body,Črno telo
 Black-body radiation,Sevanje črnega telesa
 Block,Klado
 Boiling point,Vrelišče
+Boundary condition,Robni pogoj
+Boundedness,Omejenost
+Branch,Veja
 Bremsstrahlung,Zavorno sevanje
 Brewster's angle,Brewstrov kot
 Brittleness,Krhkost
 Brownian motion,Brownovo gibanje
 Bulk modulus,Stisljivostni modul
 Buoyancy,Vzgon
+Calculus of variations,Variacijski račun
+Canonical ensemble (statistical physics),Kanonična porazdelitev (statistična fizika)
 Capacitance,Kapacitivnost
 Capacitor,Kondenzator
 Cardinality (of a set),Moč (množice)
 Cathode,Katoda
 Center of mass,Težišče
+Central force,Centralna sila
+Central potential,Centralni potencial
 Centrifugal force,Centrifugalna sila
 Centripetal force,Centripetalna sila
+Chaos,Kaos
 Charge carrier,Nosilec naboja
 Chemical potential,Kemijski potencial
 Circular motion,Krožno gibanje
+Cluster point (of a function; sequence...),Stekališče (funkcije; zaporedja...)
 Coefficient of kinetic friction,Koeficient trenja
 Coefficient of static friction,Koeficient lepenja
 Coherence,Koherenca
+Commutator,Komutator
+Compactness,Kompaktnost
+Complex analysis,Kompleksna analiza
+Complex number,Kompleksno število
+Component,Komponenta
 Compton scattering,Comptonovo sipanje
 Concave lens,Konkavna leča
 Condensed matter physics,Fizika kondenzirane snovi
+Conduction band,Prevodni pas
 Conservation law,Ohranitveni zakon
 Conservation of momentum,Ohranitev gibalne količine
+Conservative force,Konzervativna sila
+Conservative vector field,Potencialno vektorsko polje
 Constant of integration,Integracijska konstanta
 Constructive interference,Konstruktivna interferenca
+Continuity equation,Kontinuitetna enačba
+Continuity,Zveznost
 Continuous spectrum,Zvezni spekter
 Continuum mechanics,Mehanika kontinuov
 Convection,Konvekcija
+Convergence,Konvergenca
 Convex lens,Konveksna leča
+Convolution,Konvolucija
 Cooling,Hlajenje
+Coordinate system,Koordinatni sistem
+Corollary (mathematics),Posledica (matematika)
+Coupled pendulum,Sklopljeno nihalo
+Coupling constant,Sklopitvena konstanta
+Coupling,Sklopitev
 Cross section,Presek
 Curl,Rotor
 Current density,Gostota toka
 Curvature,Ukrivljenost
+Curve,Krivulja
 Curvilinear coordinate system,Krivočrtni koordinatni sistem
+Cylinder,Cilinder
 Damped motion,Dušeno gibanje
 Damping ratio,Konstanta dušenja
 Definite integral,Določeni integral
 Deformation,Deformacija
+Degenerate state,Degenerirano stanje
+Density of states,Gostota stanj
 Density,Gostota
+Dependence,Odvisnost
+Depletion region,Depletirana plast
+Derivation,Izpeljava
 Derivative,Odvod
 Destructive interference,Destruktivna interferenca
+Determinant,Determinanta
 Diamagnetism,Diamagnetizem
 Diameter,Premer
 Dielectric,Dielektrik
 Difference,Razlika
+Differentiability,Odvedljivost
 Differential,Diferencial
+Diffraction grating,Uklonska mrežica
 Diffraction,Uklon
+Diffusion,Difuzija
+Dimension,Dimenzija
 Dipole moment,Dipolni moment
 Direct current,Enosmerni tok
 Direction,Smer
@@ -94,12 +140,16 @@ Dispersion,Disperzija
 Displacement,Premik
 Distance,Razdalja
 Divergence,Divergenca
+Dokaz,Proof
+Domain (mathematics),Domena (matematika)
 Drag,Upor
 Dynamic viscosity,Dinamična viskoznost
 Dynamics,Dinamika
+Effective mass,Efektivna masa
+Eigenfunction,Lastna funkcija
+Eigenstate,Lastno stanje
 Eigenvalue,Lastna vrednost
 Eigenvector,Lastni vektor
-Eigenfunction,Lastna funkcija
 Elastic collision,Prozni trk
 Elastic energy,Prozna energija
 Elastic modulus,Prožnostni modul
@@ -134,25 +184,38 @@ Elementary charge,Osnovni naboj
 Elementary particle,Osnovni delec
 Emission,Emisija
 Empty set,Prazna množica
+Energy band,Energetski pas
 Energy density,Gostota energije
 Energy level,Energijski nivo
 Energy,Energija
 Enthalpy,Entalpija
 Entropy,Entropija
+Equation of motion,Enačba gibanja
 Equilibrium,ravnovesje
 Equipartition principle,Ekviparticijski izrek
+Error,Napaka
+Even number,Sodo število
+Example,Zgled
 Excited state,Vzbujeno stanje
+Existence,Obstoj
+Expected value,Pričakovana vrednost
+Extremum (of a function),Ekstrem (funkcije)
 Ferromagnetism,Feromagnetizem
 Field line,Silnica
 Fine-structure constant,Konstanta fine strukture
 Fission,Cepitev
 Flavor,Okus
+Flow (of a fluid),Tok (tekočine)
 Fluid mechanics,Mehanika tekočin
 Fluid,Tekočina
 Flux density,Gostota pretoka
 Flux,Pretok
 Focus,Fokus
 Force,Sila
+Forced oscillation,Vsiljeno nihanje
+Four vector,Četverec
+Fraction,Ulomek
+Frame (linear algebra),Ogrodje (linearna algebra)
 Frame of reference,Opazovalni sistem
 Free fall,Prosti pad
 Frequency,Frekvenca
@@ -164,8 +227,13 @@ Fusion,Zlivanje
 Gamma ray,Žarek gama
 Gas constant,Plinska konstanta
 Gas,Plin
+Gauge transformation,Umeritvena transformacija
+Gauge,Umeritev
 General theory of relativity,Splošna teorija relativnosti
+Geometry,Geometrija
+Goodness-of-fit test (statistics),Oblikovni test (statistika)
 Gradient,Gradient
+Grand canonical ensemble (statistical physics),Velekanonična porazdelitev (statistična fizika)
 Gravitation,Gravitacija
 Gravitational constant,Gravitacijska konstanta
 Gravitational energy,Gravitacijska energija
@@ -177,34 +245,57 @@ Group velocity,Skupinska hitrost
 Half-life,Razpolovni čas
 Heat capacity,Toplotna kapaciteta
 Heat current density,Gostota toplotnega toka
+Heat engine,Toplotni stroj
 Heat,Toplota
 Heating,Segrevanje
 Height,Višina
+Helicity,Sučnost
 Helmholtz free energy,Prosta energija
+Hole (solid state physics),Vrzel (fizika trdne snovi)
+Homogeneous semiconductor,Homogen polprevodnik
 Humidity,Vlažnost
 Hydrostatics,Hidrostatika
 Impedance,Impedanca
+Impurity,Nečistoča
+Incidence,Vpad
+Incompressible,Nestisljiv
 Indefinite integral,Nedoločen integral
+Independence,Neodvisnost
 Inductance,Induktivnost
 Inertia,Inercija
+Injective mapping,Injektivna preslikava
+Integrability,Integrabilnost
 Integral,Integral
 Intensity,Intenziteta
 Internal energy,Notranja energija
+Interpolation,Interpolacija
+Intersection (set theory),Presek (teorija množic)
+Intrinsic semiconductor,Intrinzični polprevodnik
 Ion,Ion
 Ionization,Ionizacija
 Ionizing radiation,Ionizirajoče sevanje
+Irrotational (vector field),Brezvrtinčno (vektorsko polja)
+Isentropic flow,Izentropni tok
 Isotope,Izotop
+Isotropic,Izotropen
+Iteration,Iteracija
 Kinematic viscosity,Kinematična viskoznost
 Kinematics,Kinematika
 Kinetic energy,Kinetična energija
 Laminar flow,Laminarni pretok
+Lattice (crystal),Rešetka (kristali)
+Lattice oscillations,Mrežna nihanja
+Lattice plane,Mrežna ravnina
 Length,Dolžina
 Lever,Vzvod
 Light,Luč
+Limit (of a function; sequence...),Limita (funkcije; zaporedja...)
 Limits of integration,Integracijske meje
+Line,Premica
 Linear charge density,Linearna gostota naboja
 Linear density,Linearna gostota
 Liquid,Tekočina
+Logarithm,Logaritem
 Magnetic dipole moment,Magnetni dipolni moment
 Magnetic field strength,Jakost magnetnega polja
 Magnetic field,Magnetno polje
@@ -213,45 +304,74 @@ Magnetic flux,Magnetni pretok
 Magnetic moment,Magnetni moment
 Magnetization,Magnetizacija
 Magnetostatics,Magnetostatika
+Mapping (mathematics),Preslikava (matematika)
 Mass density,Gostota mase
 Mass flux,Masni pretok
 Mass number,Masno število
 Mass,Masa
+Matrix decomposition,Razcep matrike
+Matrix element,Matrični element
 Matrix,Matrika
 Matter,Snov
+Maximum,Maksimum
 Mean,Povprečje
+Measure (mathematics),Mera (matematika)
 Mechanical equilibrium,Mehansko ravnovesje
 Mechanical work,Mehansko delo
 Mechanics,Mehanika
 Medium,Sredstvo
 Melting point,Tališče
 Melting,Taljenje
+Microcanonical ensemble (statistical physics),Mikrokanonična porazdelitev (statistična fizika)
+Minimum,Minimum
 Modulus of elasticity,Prožnostni modul
 Molar mass,Molarna masa
 Molecule,Molekula
 Moment of inertia,Vztrajnostni moment
 Momentum,Gibalna količina
 Motion,Gibanje
+Multiplicity,Kratnost
+Nastavek,Ansatz
+Neighborhood (mathematics),Okolica (matematika)
 Neutron,Nevtron
 Normal force,Sila normale
 Normal vector,Vector normale
+Normal,Normala
 Nuclear physics,Jedrska fizika
 Nuclear reaction,Jedrska reakcija
 Nucleus,Jedro
+Odd number,Liho število
+Open set,Odprta množica
+Optic axis (crystal optics),Optična os (kristalna optika)
 Optics,Optika
+Orbita,Orbit
+Order,Red
+Orthogonal,Ortogonalen
+Orthonormal,Ortonormiran
+Oscillation,Nihanje
+Osculating circle,Pritisnjena krožnica
+Osculating plane,Pritisnjena ravnina
 Packing factor,Polnitveno razmerje
 Parallel circuit,Vzporedno vezje
+Parallel,Vzporeden
+Parameter-dependent integral,Integral s parametrom
 Parity,Parnost
 Partial derivative,Parcialni odvod
 Particle accelerator,Pospeševalnik
 Particle physics,Fizika osnovnih delcev
 Particle,Delec
+Partition function (statistical physics),Fazna vsota/integral (statistična fizika)
 Pauli exclusion principle,Paulijevo izključitveno načelo
 Pendulum,Nihalo
 Period,Nihajni čas
 Permeability,Permeabilnost
 Permittivity,Permitivnost
+Perpendicular,Pravokoten
+Perturbation theory,Teorija motenj
+Perturbation,Motnja
 Phase equilibrium,Fazno ravnovesje
+Phase space,Fazni prostor
+Phase velocity,Fazna hitrost
 Phase,Faza
 Photoelectric effect,Fotoelektrični pojav
 Photon,Foton
@@ -259,16 +379,27 @@ Photonics,Fotonika
 Physical constant,Fizikalna konstanta
 Physical quantity,Fizikalna količina
 Physics,Fizika
+Piecewise continuous,Odsekoma zvezen
 Piezoelectricity,Piezoelektričnost
+Plane wave,Ravni val
 Plasticity,Plastičnost
+Plate,Plošča
+Polynomial,Polinom
 Position vector,Radij vektor
+Position,Položaj
 Potential energy,Potencialna energija
+Power (exponent),Potenca (eksponent)
 Power,Moč
+Predpostavka,Assumption
+Prehod,Transition
+Prenosna matrika,Transfer matrix
 Pressure,Tlak
+Primitive vector,Primitivni vektor
 Principle of relativity,Načelo relativnosti
 Probability distribution,Verjetnostna porazdelitev
 Probability,Verjetnost
 Projection,Projekcija
+Proposition,Trditev
 Pulley,Škripec
 Quantum electrodynamics,Kvanta elektrodinamika
 Quantum field theory,Kvanta teorija polja
@@ -280,48 +411,73 @@ Radiation,Sevanje
 Radioactive decay,Radioaktivni razpad
 Radius of curvature,Radij ukrivljenosti
 Radius,Radij
+Ratio,Razmerja
 Reduced mass,Reducirana masa
 Refraction,Lom
 Refractive index,Lomni količnik
 Relativistic mass,Relativistična masa
+Residue (complex analysis),Residuum (kompleksna analiza)
 Resistivity,Specifična upornost
+Resolution,Ločljivost
 Rest frame,Mirovni sistem
 Rigid body,Togo telo
+Rod,Palica
+Rotation,Rotacija
+Sample,Vzorec
 Scalar,Skalar
 Scale,Skala
 Scattering cross section,Sipalni presek
 Scattering,Sipanje
+Self-adjoint operator,Sebi-adjungiran operator
+Semiconductor,Polprevodnik
+Sequence,Zaporedje
 Series circuit,Zaporedno vezje
+Series expansion,Razvoj v vrsto
+Set,Množica
 Shear force,Strižna sila
 Shear modulus,Strižni modul
 Shear strain,Strižna deformacija
 Shear stress,Strižna napetost
+Shell model (nuclear physics),Lupinski model (fizika jedra)
 Shell,Lupina
+Sink,Ponor
+Skin effect,Kožni pojav
+Slit,Reža
 Solid angle,Prostorski kot
 Solid-state physics,Fizika trdne snovi
 Solubility,Topnost
+Solution,Rešitev
 Sound,Zvok
+Source,Izvor
 Special theory of relativity,Posebna teorija relativnosti
 Speed of light,Hitrost svetlobe
 Speed of sound,Hitrost zvoka
 Speed,Hitrost
+Sphere,Sfera
 Spin,Spin
 Standard deviation,Standardna deviacija
 Standing wave,Stoječi val
 State of matter,Faza snovi
 Statics,Statika
+Stationary state,Stacionarno stanje
 Statistical mechanics,Statistična mehanika
 Stiffness,Togost
 Strain,Deformacija
+Streamline,Tokovnica
 Stress,Mehanska napetost
 Sublimation,Sublimacija
 Sum,Vsota
 Superconductivity,Superprevodnost
 Superconductor,Superprevodnik
+Surface (surface),Ploskev (matematika)
 Surface area,Površina
 Surface tension,Površinska napetost
 Surface,Površina
+Surjective mapping,Surjektivna preslikava
+Symmetry,Simetrija
+Tangent,Tangenta
 Temperature,Temperatura
+Theorem,Izrek
 Theory of relativity,Teorija relativnosti
 Thermal conduction,Kondukcija
 Thermal conductivity,Toplotna prevodnost
@@ -332,20 +488,29 @@ Time constant,Časovna konstanta
 Time,Čas
 Torque,Navor
 Torsion coefficient,Torzijski koeficient
+Torsion,Torzija
 Total internal reflection,Popolni odboj
 Trajectory,Tirnica
+Transport phenomenon,Transportni pojav
 Transverse wave,Transverzalni val
 Trigonometry,Trigonometrija
 Triple point,Trojna točka
 Uncertainty principle,Načelo nedoločenosti
 Uniform circular motion,Enakomerno kroženje
+Uniform convergence,Enakomerna konvergenca
 Uniform motion,Enakomerno gibanje
+Union (set theory),Unija (teorija množic)
+Unit cell,Osnovna celica
 Unit vector,Enotski vektor
 Vacuum,Vakuum
+Valence band,Valenčni pas
 Valence electron,Valenčni elektron
+Vector premika,Displacement vector
 Vector space,Vektorski prostor
 Vector,Vektor
 Velocity,Hitrost
+Virial expansion,Virialni razvoj
+Virial theorem,Virialni teorem
 Viscosity,Viskoznost
 Visible light,Vidna svetloba
 Voltage,Električna napetost
@@ -355,11 +520,13 @@ Volume density,Volumska gostota
 Volume,Volumen
 Volumetric flow rate,Volumski pretok
 Wave equation,Valovna enačba
+Wave front,Valovna fronta
 Wave function,Valovna funkcija
+Wave number,Valovno število
+Wave packet,Valovni paket
+Wave vector,Valovni vektor
 Wave,Val
 Wavelength,Valovna dolžina
-Wave number,Valovno število
-Wave vector,Valovni vektor
 Weak interaction,Šibka interakcija
 Wedge,Klin
 Weight,Teza
@@ -368,3 +535,4 @@ Width,Širina
 Work function,Izstopno delo
 Work,Delo
 Young's modulus,Youngov modul
+p-n junction (solid state physics),p-n stik (fizika trdne snovi)
