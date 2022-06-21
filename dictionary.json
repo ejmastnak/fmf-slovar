@@ -473,6 +473,14 @@
       "slovene": "Degenerirano stanje"
     },
     {
+      "english": "Degree (angle)|Stopinja (kot)",
+      "slovene": "Degree (angle)|Stopinja (kot)"
+    },
+    {
+      "english": "Degree of freedom|Prostostna stopnja",
+      "slovene": "Degree of freedom|Prostostna stopnja"
+    },
+    {
       "english": "Density",
       "slovene": "Gostota"
     },
@@ -555,6 +563,10 @@
     {
       "english": "Direction",
       "slovene": "Smer"
+    },
+    {
+      "english": "Discriminant (of a polynomial)|Diskriminanta (polinoma)",
+      "slovene": "Discriminant (of a polynomial)|Diskriminanta (polinoma)"
     },
     {
       "english": "Dispersion",
@@ -1157,6 +1169,10 @@
       "slovene": "Mrežna ravnina"
     },
     {
+      "english": "Leading coefficient (of a polynomial)|Čelni koeficient (polinoma)",
+      "slovene": "Leading coefficient (of a polynomial)|Čelni koeficient (polinoma)"
+    },
+    {
       "english": "Length",
       "slovene": "Dolžina"
     },
@@ -1447,6 +1463,10 @@
     {
       "english": "Particle physics",
       "slovene": "Fizika osnovnih delcev"
+    },
+    {
+      "english": "Partition (e.g. in Riemann integration)",
+      "slovene": "Delitev (npr. v Riemannovi integraciji)"
     },
     {
       "english": "Partition function (statistical physics)",
@@ -1907,6 +1927,10 @@
     {
       "english": "Temperature",
       "slovene": "Temperatura"
+    },
+    {
+      "english": "Term (in an equation)|Člen (v enačbi)",
+      "slovene": "Term (in an equation)|Člen (v enačbi)"
     },
     {
       "english": "Theorem",
